@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xmolinaa
 - 👀 I’m interested in public health and epidemiology
-- 🌱 I’m currently learning new statisticals softwares
+- 🌱 I'm currently learning new statistical softwares
 
 
 <!---
